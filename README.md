@@ -17,7 +17,7 @@
   ---
   
 <p>
-  <img width="150" align='left' src="https://psych.bnu.edu.cn/images/2022-08/618826f5747b4406bb42b76a2d1f2f79.png">
+  <img width="150" align='left' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/profile.png?raw=true">
 </p>
 
 ### 💕研究方向

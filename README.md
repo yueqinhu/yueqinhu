@@ -1,8 +1,5 @@
-## <img align="center" height="150" alt="Liuqingshan" src="https://raw.githubusercontent.com/673aa/673aa/main/img/HDLab.jfif?v=4?transparent=1&palette=1"/>Hi, 欢迎来到健康动力实验室（胡月琴教授实验室） 👋
-<p align="center">
-  <a align="center" href="https://github.com/673aa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+胡+月+琴+教+授+实+验+室;Welcome+to+健+康+动+力+实+验+室+!](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Welcome+to+胡+月+琴+教+授+实+验+室;Welcome+to+健+康+动+力+实+验+室+!" /></a>
-</p>
-<p>
+## <img align="center" height="150" alt="Liuqingshan" src="https://raw.githubusercontent.com/673aa/673aa/main/img/HDLab.jfif?v=4?transparent=1&palette=1"/>Hi, 欢迎来到健康动力实验室 👋
+
 
 新成员招募：
 
@@ -19,7 +16,7 @@
 
   ---
   
- <p>
+<p>
   <img width="150" align='left' src="https://psych.bnu.edu.cn/images/2022-08/618826f5747b4406bb42b76a2d1f2f79.png">
 </p>
 
@@ -32,24 +29,8 @@
 🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
 
  ---
- <img width='400' align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif">
- 
- ### 个人履历
-**学习经历：**
-<ul>
-  <li>- 🎓 2002.09-2006.07   北京大学               学士</li>
-  <li>- 🎓 2006.09-2009.07   北京大学               硕士</li>
-  <li>- 🎓 2009.09-2013.05   美国弗吉尼亚大学       博士</li>
-</ul>
 
-**工作经历：**
-<ul>
-  <li>- 🏫 2013.08-2019.08   美国德州州立大学       助理教授</li>
-  <li>- 🏫 2019.09-2020.08   美国德州州立大学       副教授</li>
-  <li>- 🏫 2020.09- Present   北京师范大学               教授</li>
-</ul>
-
-<h2>🔭 科学研究</h2>
+<h2> 科学研究</h2>
 <details>
  <summary><strong>发表论文</strong></summary>
 <ul>
@@ -114,55 +95,8 @@
 <li>胡月琴，刘清山（2023）Python包：deFit: Fitting Differential Equations to Time Series Data. https://pypi.org/project/deFit/</li>
 </ul>
  </details>
-<h2>💯 教学工作</h2>
 
-<details>
- <summary><strong>本科教学</strong></summary>
-<ul>
-  <li>心理测量</li>
-  <li>Introduction to Statistics</li>
-  <li>Intermediate Statistics</li>
-</ul>
-</details>
 
-<details>
- <summary><strong>研究生教学</strong></summary>
-<ul>
-<li>心理学研究方法</li>
-<li>高级心理应用统计</li>
-<li>心理学前沿讲座</li>
-<li>Univariate and Bivariate Statistics</li>
-<li>Multivariate Statistics</li>
-</ul>
-</details>
-
-<h2>💫 社会工作</h2>
-
-| 学术协会 | 职务|
-| --- | --- |
-| 中国心理学会行为与健康心理学 | 专业委员会委员 |
-| 国际心理测量协会 Psychometric Society        |  会员 |
-| 美国心理学会第5分会（测量与统计分会）APA Division 5| 会员 |
-
-| 学术期刊编委会 | 职务|
-| --- | --- |
-| Mindfulness | 副主编 |
-| Journal of Psychology: Interdisciplinary and Applied|编委 |
-
-<details>
- <summary><strong>学术期刊长期审稿人</strong></summary>
-  
-- Psychological Methods
-- Structural Equation Modeling: A Multidisciplinary Journal
-- Multivariate Behavioral Research
-- British Journal of Mathematical and Statistical Psychology
-- Journal of Health Psychology
-- American Journal of Health Behavior
-- Frontiers in Psychology
-- Mindfulness
-- Pain Practice
-</details>
-
-<h2>👧👦 学生指导</h2>
+<h2> 学生指导</h2>
 
 - 2023届：吴凡、<a href='http://www.annletter.com/'>刘清山</a>

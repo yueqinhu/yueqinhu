@@ -1,4 +1,4 @@
-## <img align="center" height="150" alt="Liuqingshan" src="https://raw.githubusercontent.com/673aa/673aa/main/img/HDLab.jfif?v=4?transparent=1&palette=1"/>Hi, 欢迎来到健康动力实验室 👋
+## Hi, 欢迎来到健康动力实验室 👋
 
 
 新成员招募：

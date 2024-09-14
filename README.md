@@ -118,7 +118,7 @@
 
 <h2> 实验室成员</h2>
 <details  open>
- <summary><strong>现有成员</strong></summary>
+ <summary><strong>活跃成员</strong></summary>
   <ul>
 <li> 科研助理：<a href='http://www.annletter.com/'>刘清山</a>、顾潇丹</li>
 <li> 博士生：李芮（2022级）、刘文娟（2023级）、张赫洋（2024级）</li>

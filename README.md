@@ -1,4 +1,4 @@
-## 欢迎来到健康动力学实验室 Health Dynamic Laboratory @ Beijing Normal University
+## 欢迎来到健康动力学实验室 Health Dynamic Laboratory
 
 
 新成员招募：

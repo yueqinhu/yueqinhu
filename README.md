@@ -17,7 +17,7 @@
   ---
   
 <p>
-  <img width="150" align='left' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/profile.png?raw=true">
+  <img width="150" align='left' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/timeseries.jpg?raw=true">
 </p>
 
 ### 💕研究方向

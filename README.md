@@ -19,7 +19,7 @@
   ---
   
 <p>
-  <img width="500" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/dynamicsystem.png?raw=true">
+  <img width="600" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/dynamicsystem.png?raw=true">
 </p>
 
 

@@ -1,5 +1,7 @@
 ## 欢迎来到健康动力学实验室 Health Dynamic Laboratory
 
+### 💕Announcement
+
 
 新成员招募：
 
@@ -17,8 +19,10 @@
   ---
   
 <p>
-  <img width="150" align='left' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/timeseries.jpg?raw=true">
+  <img width="500" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/timeseries.jpg?raw=true">
 </p>
+
+
 
 ### 💕研究方向
 
@@ -28,10 +32,10 @@
 
  ---
 
-<h2> 科学研究</h2>
+<h2> Research </h2>
 
 <details   open>
- <summary><strong>Featured Study</strong></summary>
+ <summary><strong>Featured Studies</strong></summary>
 <ul> 
 <li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
  <li> Luo, X., Liu, H.*, & Hu, Y.* (2024). From cross-lagged effects to feedback effects: Further insights into the estimation and interpretation of bidirectional relations. Behavior Research Methods, 56(4), 3685-3705. </li>
@@ -42,7 +46,7 @@
 </details>
 
 <details>
- <summary><strong>发表论文</strong></summary>
+ <summary><strong>Publications</strong></summary>
 <ul>
  <li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
  <li>  Li, M., & Hu, Y.* (2024). A Hybrid Method: Resolving the Impact of Variable Ordering in Bayesian Network Structure Learning. Fudan Journal of the Humanities and Social Sciences, 1-17.</li>
@@ -91,7 +95,7 @@
 </details>
 
 <details>
- <summary><strong>科研项目</strong></summary>
+ <summary><strong>Grants</strong></summary>
   <ul>
 <li>密集追踪数据动态建模新方法:数值优化算法及样本量设计(2022-2025，国家自然科学基金面上项目32171089)，主持</li>
 <li>XXX心理健康多维评估预警体系建设项目（2024-2025，部委委托项目），主持</li>
@@ -108,7 +112,7 @@
 </details>
 
 <details  open>
- <summary><strong>软件开发</strong></summary>
+ <summary><strong>Software</strong></summary>
 <ul>
 <li>胡月琴，刘清山（2023）R包：deFit: Fitting Differential Equations to Time Series Data. https://cran.r-project.org/web/packages/deFit/index.html</li>
 <li>胡月琴，刘清山（2023）Python包：deFit: Fitting Differential Equations to Time Series Data. https://pypi.org/project/deFit/</li>
@@ -116,9 +120,9 @@
  </details>
 
 
-<h2> 实验室成员</h2>
+<h2> Members </h2>
 <details  open>
- <summary><strong>活跃成员</strong></summary>
+ <summary><strong>Current Members</strong></summary>
   <ul>
 <li> 科研助理：<a href='http://www.annletter.com/'>刘清山</a>、顾潇丹</li>
 <li> 博士生：李芮（2022级）、刘文娟（2023级）、张赫洋（2024级）</li>
@@ -128,7 +132,7 @@
 </ul>
 </details>
  <details>
- <summary><strong>往届成员</strong></summary>
+ <summary><strong>Previous Members</strong></summary>
   <ul>
 <li>科研助理：姜羽振</li>  
 <li>2020级硕士：吴凡</li>

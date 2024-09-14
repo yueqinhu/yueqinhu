@@ -29,7 +29,19 @@
  ---
 
 <h2> 科学研究</h2>
+
 <details   open>
+ <summary><strong>Featured Study</strong></summary>
+<ul> 
+<li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
+ <li> Luo, X., Liu, H.*, & Hu, Y.* (2024). From cross-lagged effects to feedback effects: Further insights into the estimation and interpretation of bidirectional relations. Behavior Research Methods, 56(4), 3685-3705. </li>
+ <li> Hu, Y., & Treinen, R. F. (2019). A one-step method for modeling intensive longitudinal data with differential equations. British Journal of Mathematical and Statistical Psychology, 1, 38-60.</li>
+<li> Hu, Y., Nesselroade, J. R., Erbacher, M. K., Boker, S. M., Burt, S. A., Keel, P. K., Neale, M. C., Sisk, C. L., & Klump, K. (2016). Test reliability at the individual level. Structural Equation Modeling: A Multidisciplinary Journal, 23, 532-543.</li>
+ <li> Hu, Y., Boker, S., Neale, M., & Klump, K. (2014). Coupled Latent Differential Equation with Moderators: Simulation and Application. Psychological Methods, 19, 56-71.</li>
+</ul>
+</details>
+
+<details>
  <summary><strong>发表论文</strong></summary>
 <ul>
  <li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
@@ -54,7 +66,7 @@
  <li> Hu, Y., Visser, M., & Kaiser, S. (2020). Perceived Stress and Sleep Quality in Midlife and Later: Controlling for Genetic and Environmental Influences. Behavioral Sleep Medicine, 18(4), 537-549.</li>
  <li> Ginsburg, H., Hu, Y., & Robinson, B. (2020). Little Albert’s fear conditioning disappears when Watson’s different presentations of the rat before and after conditioning are controlled. North American Journal of Psychology, 22(4), 661-678.</li>
  <li> Shen,Y., Seo, E., Hu, Y., Zhang, M., & Chao, R. K. (2019). Measurement Invariance of Language Brokering Extent and Attitudes in Linguistic Minority Adolescents: Item Response Theory Analyses. Cultural Diversity and Ethnic Minority Psychology, 25, 170-178.</li>
- <li> Hu, Y., & Treinen, R. F. (2019). A one-step method for modeling intensive longitudinal data with differential equations. British Journal of Mathematical and statistical psychology, 1, 38-60.</li>
+ <li> Hu, Y., & Treinen, R. F. (2019). A one-step method for modeling intensive longitudinal data with differential equations. British Journal of Mathematical and Statistical Psychology, 1, 38-60.</li>
  <li> Menge, L. R., Hu Y., Crixell, S., Lloyd, L, Bezner, J., Burke, T. (2019). Influences on Catered Event Ordering in a University Workplace: Development and Validation of the Understanding Food Ordering (UFO) Survey. American Journal of Health Promotion, 33(4), 616-619.</li>
  <li> Hu, Y., Huang, Y. (2018). Dynamic Regulation toward an External Stimulus: A Differential Equation Model. Multivariate Behavioral Research, 53(6), 925-939.</li>
  <li> Hu, Y., Wang, Y., Sun, Y., Arteta Garcia, J., & Purol, S. (2018). Diary Study: The Protective Role of Self-Compassion on Stress-related Poor Sleep Quality. Mindfulness, 9, 1931-1940.</li>

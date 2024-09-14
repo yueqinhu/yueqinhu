@@ -1,9 +1,11 @@
-## Hi, 欢迎来到健康动力实验室
+## 欢迎来到健康动力学实验室 Health Dynamic Laboratory @ Beijing Normal University
 
 
 新成员招募：
 
-课题组目前接收本科生科研轮转、本科生入组、学术研究生和学术博士的申请。
+实验室目前接收2025年入学的学术研究生申请（心理统计与测量方向）。
+
+实验室也非常欢迎本科生在这里进行科研轮转和科研训练。
 
 了解详情请发邮件yueqinhu@bnu.edu.cn。
 </p>
@@ -20,25 +22,30 @@
 
 ### 💕研究方向
 
-（1）计量心理学：针对密集追踪数据的动态系统分析，包括算法开发、模型构建、应用拓展等。
+（1）计量心理学：针对密集追踪数据的统计模型发展，包括算法开发、模型构建、应用拓展等。
 
-（2）健康心理学：从动态系统的视角去理解人的健康行为，包括睡眠、饮食、情绪、压力管理等。
-
-🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
+（2）健康心理学：从动态系统的视角解释人的健康行为过程，包括饮食、情绪、压力管理等。
 
  ---
 
 <h2> 科学研究</h2>
-<details>
+<details   open>
  <summary><strong>发表论文</strong></summary>
 <ul>
- <li> Luo, X., & Hu, Y.* (in press). Temporal misalignment in intensive longitudinal data: Consequences and solutions based on dynamic structural equation models. Structural Equation Modeling.</li>
- <li> Gan, Y., Wang, L., Schwarzer, R., Chen, G., & Hu, Y.* (in press). Eating Healthy Under Work Stress: A Gene Stress Interaction Model. Health Psychology.</li>
+ <li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
+ <li>  Li, M., & Hu, Y.* (2024). A Hybrid Method: Resolving the Impact of Variable Ordering in Bayesian Network Structure Learning. Fudan Journal of the Humanities and Social Sciences, 1-17.</li>
+ <li> Luo, X., Liu, H.*, & Hu, Y.* (2024). From cross-lagged effects to feedback effects: Further insights into the estimation and interpretation of bidirectional relations. Behavior Research Methods, 56(4), 3685-3705. </li>
+<li> Li, R., Shen, Y., Meng, Z., & Hu, Y.* (2024). Longitudinal Relationships Among Child School Engagement, Parental Monitoring, and Child Prosocial Behavior: A Child-Parent Synergistic Mechanism. Journal of Youth and Adolescence, 1-12.</li>
+<li> Zheng, Y.*, Xu, J., Li, K., & Hu, Y.* (2024). A dynamical systems investigation of the co-regulation between perceived daily parental warmth and adolescent attention-deficit/hyperactivity disorder symptoms. Research on Child and Adolescent Psychopathology, 52(1), 111-124.</li>
+<li> Wang, H., Xu, J., Fu, S., Tsang, U. K., Ren, H., Zhang, S., Hu, Y.*, & Han, Z. R.* (2024). Friend emotional support and dynamics of adolescent socioemotional problems. Journal of youth and adolescence, 1-14.    </li>
+<li>  Luo, X., Hu, Y., & Liu, H. (2024). Assessing Between-and Within-Person Reliabilities of Items and Scale for Daily Procrastination: A Multilevel and Dynamic Approach. Assessment, 10731911241235467.   </li>
+<li>  Xu, J., Wang, H., Morrow, K. E., Xu, Y., Gao, M. M., Hu, Y., & Han, Z. R. (2024). Respiratory sinus arrhythmia (RSA) dynamics matter for children's emotion regulation: RSA inertia and instability within a stress task. Child Development, 95(1), 70-81.   </li>
+<li>  Luo, X., Ma, J., & Hu, Y.* (2023). Dynamic and bidirectional relation between mindfulness and procrastination among female college students. Mindfulness, 14(9), 2265-2275.   </li>
+<li>  Gan, Y., Wang, L., Schwarzer, R., Chen, G., & Hu, Y.* (2023). Eating healthy under work stress: A gene stress interaction model. Health Psychology, 42(7), 425.   </li>
  <li> 胡月琴，王理中，陈钢，甘怡群. (2023). CSF3R和行动控制对应激与健康饮食关系的调节作用：应激影响健康行为的个体化模型的初步证据. 心理学报. 55，8，1-12.</li>
- <li> 吴凡，胡月琴. (2023). 人格动态性：过程与特质整合视角. 心理科学进展.</li>
- <li> Luo, X., & Hu, Y.* (2023). The competitive interaction between food cravings and unhealthy snacking: an application of the predator-prey model in psychology. Current Psychology. Doi: 10.1007/s12144-022-03848-8</li>
- <li> Yao, Z.*, Xu, J., L., K., & Hu, Y.*(2023). A dynamical systems investigation of the co-regulation between perceived daily parental warmth and adolescent attention-deficit/hyperactivity disorder symptoms. Research on Child and Adolescent Psychopathology. Doi: 10.1007/10802-023-01039-y</li>
- <li> Xu, J., Wang, H., Liu, S., Hale, M., Weng, X., Ahemaitijiang, N., Hu., Y.*, Suveg, C., & Han, Z*. (2023). Relations among family, peer, and academic stress and adjustment in Chinese adolescents: A daily diary analysis. Developmental Psychology. https://doi.org/10.1037/dev0001538</li>
+ <li> 吴凡，胡月琴. (2023). 人格动态性：过程与特质整合视角. 心理科学进展. 31(7), 1269.</li>
+<li>  Luo, X., & Hu, Y*. (2023). The competitive interaction between food cravings and unhealthy snacking: an application of the predator-prey model in psychology. Current Psychology, 42(32), 28484-28492.   </li>
+<li>   Xu, J., Wang, H., Liu, S., Hale, M., Weng, X., Ahemaitijiang, N., Hu., Y.*, Suveg, C., & Han, Z*. (2023). Relations among family, peer, and academic stress and adjustment in Chinese adolescents: A daily diary analysis. Developmental Psychology, 59(7), 1346.  </li>
  <li> De Nadai, A., Hu, Y., & Thompson, W. K. (2022). Data pollution in Neuropsychiatry-an under-recognized but critical barrier to research progress. JAMA Psychiatry, 79(2), 97-98.</li>
  <li> Shen, Y., Lee, H., Choi, Y., Hu, Y., & Kim, K. (2022). Ethnic-racial socialization, ethnic-racial identity, and depressive symptoms in Korean adolescents in the United States and China. Journal of Youth and Adolescence, 51(2), 377-392.</li>
  <li> Li, Y., Hu, Y., Yang, W., Wang, Y. (2021). Daily interventions and assessments: The effect of online self-compassion meditation on psychological health. Applied Psychology: Health Well-Being, 13(4), 906-921.</li>
@@ -74,7 +81,9 @@
 <details>
  <summary><strong>科研项目</strong></summary>
   <ul>
-<li>国家自然科学基金科学基金面上项目，密集追踪数据动态建模新方法:数值优化算法及样本量设计(2022-2025，项目批准号：32171089)，主持</li>
+<li>密集追踪数据动态建模新方法:数值优化算法及样本量设计(2022-2025，国家自然科学基金面上项目32171089)，主持</li>
+<li>XXX心理健康多维评估预警体系建设项目（2024-2025，部委委托项目），主持</li>
+<li>基于多模信号的情绪感知及其在内容推荐中的应用研究（2023-2024，淘宝中国），主持 </li>
 <li>大学生自杀危机预防与干预全过程模型的建构、优化与应用研究（2022-2023，项目号：310499101，北京师范大学），子课题主持</li>
 <li>中学生自伤与伤人风险测评工具的开发（2022-2023，杭州铭师堂），主持</li>
 <li>National Institutes of Health (001452-00001): Innovative physiological predictors of college drinking. Co-Investigator</li>
@@ -95,6 +104,26 @@
  </details>
 
 
-<h2> 学生指导</h2>
+<h2> 实验室成员</h2>
+<details  open>
+ <summary><strong>现有成员</strong></summary>
+  <ul>
+<li> 科研助理：<a href='http://www.annletter.com/'>刘清山</a>、顾潇丹</li>
+<li> 博士生：李芮（2022级）、刘文娟（2023级）、张赫洋（2024级）</li>
+<li> 硕士生：唐亚男、林园、顾雪怡、闫可欣、林瑶、泰可欣、沈思妍、刘云啸、尹玉鑫</li>
+<li> 本科生：宋欣竹、胡骏焘、代泽西、金卓然、周逸然</li>
+<li> 老成员：罗晓慧、李明澜、窦佳宁、武瑞娟</li>
+</ul>
+</details>
+ <details>
+ <summary><strong>往届成员</strong></summary>
+  <ul>
+<li>科研助理：姜羽振</li>  
+<li>2020级硕士：吴凡</li>
+<li>2021级硕士：刘清山、武瑞娟、刘诗、王雨朦、曹一荻</li>
+<li>2022级硕士：李明澜、王飞鹏、周小涵</li>
+<li>2019级本科生：王新蕾、罗晓慧、谢安琦、张冯铭依、邓艾林、蒲柯岑、施逸琳、王韵衡</li>
+<li>2020级本科生：朱昱豪、窦佳宁、孟一凡、马静薇、范钰滢、梁雨彤、赵静雅</li>
+</ul>
+</details> 
 
-- 2023届：吴凡、<a href='http://www.annletter.com/'>刘清山</a>

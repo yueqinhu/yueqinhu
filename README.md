@@ -43,13 +43,8 @@
 
 
 <p>
-  <img width="300" align='left' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/model.png?raw=true">
+  <img width="600" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/str_psy_phy_model.png?raw=true">
 </p>
-
-<p>
-  <img width="500" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/DSEM.png?raw=true">
-</p>
-
   
 <li> Hu, Y., & Treinen, R. F. (2019). A one-step method for modeling intensive longitudinal data with differential equations. British Journal of Mathematical and Statistical Psychology, 1, 38-60.</li>
 <li> Hu, Y., Nesselroade, J. R., Erbacher, M. K., Boker, S. M., Burt, S. A., Keel, P. K., Neale, M. C., Sisk, C. L., & Klump, K. (2016). Test reliability at the individual level. Structural Equation Modeling: A Multidisciplinary Journal, 23, 532-543.</li>

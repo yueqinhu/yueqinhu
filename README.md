@@ -32,7 +32,7 @@
 
  ---
 
-<h2> 🔎 Research </h2>
+<h2> 📂 Research </h2>
 
 <details   open>
  <summary><strong>Featured Studies</strong></summary>
@@ -153,7 +153,7 @@
  </details>
 
 
-<h2> 🐵 Members </h2>
+<h2> 🎃 Members </h2>
 <details  open>
  <summary><strong>Current Members</strong></summary>
   <ul>

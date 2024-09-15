@@ -47,7 +47,7 @@
 </p>
 
 <p>
-  <img width="300" align='right' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/DSEM.png?raw=true">
+  <img width="500" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/DSEM.png?raw=true">
 </p>
 
   

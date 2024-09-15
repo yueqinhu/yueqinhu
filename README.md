@@ -54,7 +54,7 @@
 <br/>
 
 <p>
-  <img width="600" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/feedback.png?raw=true">
+  <img width="800" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/feedback.png?raw=true">
 </p>
 
 <br/>

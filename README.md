@@ -152,6 +152,7 @@
 </ul>
  </details>
 
+---
 
 <h2> 🎃 Members </h2>
 <details  open>

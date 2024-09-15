@@ -42,7 +42,11 @@
 <li> Luo, X., Ma, J. & Hu, Y.* (2024). A dynamic bidirectional system of stress processes: Feedback loops between stressors, psychological distress, and physical symptoms. Health Psychology, doi: 10.1037/hea0001414 </li>
 
 <p>
-  <img width="600" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/model.png?raw=true">
+  <img width="100" align='left' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/model.png?raw=true">
+</p>
+
+<p>
+  <img width="100" align='right' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/DSEM.png?raw=true">
 </p>
   
 <li> Hu, Y., & Treinen, R. F. (2019). A one-step method for modeling intensive longitudinal data with differential equations. British Journal of Mathematical and Statistical Psychology, 1, 38-60.</li>

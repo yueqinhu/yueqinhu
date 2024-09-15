@@ -32,7 +32,7 @@
 
  ---
 
-<h2> :file_folder: Research </h2>
+<h2> 🔎 Research </h2>
 
 <details   open>
  <summary><strong>Featured Studies</strong></summary>

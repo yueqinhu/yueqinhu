@@ -50,6 +50,18 @@
 
   
  <li> Luo, X., Liu, H.*, & Hu, Y.* (2024). From cross-lagged effects to feedback effects: Further insights into the estimation and interpretation of bidirectional relations. Behavior Research Methods, 56(4), 3685-3705. </li>
+
+<br/>
+
+<p>
+  <img width="600" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/feedback.png?raw=true">
+</p>
+
+<br/>
+
+<br/>
+
+ 
 <li> Luo, X., Ma, J. & Hu, Y.* (2024). A dynamic bidirectional system of stress processes: Feedback loops between stressors, psychological distress, and physical symptoms. Health Psychology, doi: 10.1037/hea0001414 </li>
 
 <br/>

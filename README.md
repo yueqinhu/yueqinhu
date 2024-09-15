@@ -41,7 +41,7 @@
 <br/>
 
 <p>
-  <img width="500" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/misalignment.png?raw=true">
+  <img width="700" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/misalignment.png?raw=true">
 </p>
 
 <br/>
@@ -54,7 +54,7 @@
 <br/>
 
 <p>
-  <img width="800" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/feedback.png?raw=true">
+  <img width="700" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/feedback.png?raw=true">
 </p>
 
 <br/>
@@ -67,7 +67,7 @@
 <br/>
 
 <p>
-  <img width="800" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/str_psy_phy_model.png?raw=true">
+  <img width="700" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/str_psy_phy_model.png?raw=true">
 </p>
 
 <br/>

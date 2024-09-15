@@ -39,7 +39,8 @@
 <ul> 
 <li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
  <li> Luo, X., Liu, H.*, & Hu, Y.* (2024). From cross-lagged effects to feedback effects: Further insights into the estimation and interpretation of bidirectional relations. Behavior Research Methods, 56(4), 3685-3705. </li>
- <li> Hu, Y., & Treinen, R. F. (2019). A one-step method for modeling intensive longitudinal data with differential equations. British Journal of Mathematical and Statistical Psychology, 1, 38-60.</li>
+<li> Luo, X., Ma, J. & Hu, Y.* (2024). A dynamic bidirectional system of stress processes: Feedback loops between stressors, psychological distress, and physical symptoms. Health Psychology, doi: 10.1037/hea0001414 </li>
+<li> Hu, Y., & Treinen, R. F. (2019). A one-step method for modeling intensive longitudinal data with differential equations. British Journal of Mathematical and Statistical Psychology, 1, 38-60.</li>
 <li> Hu, Y., Nesselroade, J. R., Erbacher, M. K., Boker, S. M., Burt, S. A., Keel, P. K., Neale, M. C., Sisk, C. L., & Klump, K. (2016). Test reliability at the individual level. Structural Equation Modeling: A Multidisciplinary Journal, 23, 532-543.</li>
  <li> Hu, Y., Boker, S., Neale, M., & Klump, K. (2014). Coupled Latent Differential Equation with Moderators: Simulation and Application. Psychological Methods, 19, 56-71.</li>
 </ul>
@@ -48,7 +49,8 @@
 <details>
  <summary><strong>Publications</strong></summary>
 <ul>
- <li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
+ <li> Luo, X., Ma, J. & Hu, Y.* (2024). A dynamic bidirectional system of stress processes: Feedback loops between stressors, psychological distress, and physical symptoms. Health Psychology, doi: 10.1037/hea0001414 </li>
+  <li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
  <li>  Li, M., & Hu, Y.* (2024). A Hybrid Method: Resolving the Impact of Variable Ordering in Bayesian Network Structure Learning. Fudan Journal of the Humanities and Social Sciences, 1-17.</li>
  <li> Luo, X., Liu, H.*, & Hu, Y.* (2024). From cross-lagged effects to feedback effects: Further insights into the estimation and interpretation of bidirectional relations. Behavior Research Methods, 56(4), 3685-3705. </li>
 <li> Li, R., Shen, Y., Meng, Z., & Hu, Y.* (2024). Longitudinal Relationships Among Child School Engagement, Parental Monitoring, and Child Prosocial Behavior: A Child-Parent Synergistic Mechanism. Journal of Youth and Adolescence, 1-12.</li>

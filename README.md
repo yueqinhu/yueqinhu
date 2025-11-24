@@ -38,6 +38,20 @@
 <details   open>
  <summary><strong>Featured Studies</strong></summary>
 <ul> 
+
+<li> Li, R., Liu, X., Yu, Y., Su, W., & Hu, Y.* (2025) Beyond Content: Multimodal Emotional Responses Predict Online Moral Contagion Across Laboratory and Real-world Contexts.
+International Journal of Human-Computer Studies, 103689,  </li>
+
+<li> Li, M., Yu, Y., Liu, X., Wu, J., Wang*, Q., & Hu, Y.* (2025). Beyond Algorithms: Utilizing Multi-modal Emotional and Behavioral Cues as Novel Predictors of Short-Video Consumption. Computers in Human Behavior Reports, 100805.  </li>
+
+<p>
+  <img width="700" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/phone.png?raw=true">
+</p>
+
+<br/>
+
+<br/>
+  
 <li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
 
 <p>

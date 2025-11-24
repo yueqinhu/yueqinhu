@@ -1,7 +1,6 @@
 ## 欢迎来到健康动力学实验室 Health Dynamic Laboratory
 
 ### 💕Announcement
-近期消息：
 
 祝贺李芮等同学关于多模态情绪测量预测线上道德传染的论文在International Journal of Human-Computer Studies发表！<br>
 祝贺李明澜同学关于手机端智能信号预测短视频观看的论文在Computers in Human Behavior Reports发表！<br>

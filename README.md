@@ -99,7 +99,7 @@
 </ul>
 </details>
 
-<details>
+<details open>
  <summary><strong>Publications</strong></summary>
 <ul>
 
@@ -162,7 +162,7 @@
 </ul>
 </details>
 
-<details>
+<details open>
  <summary><strong>Grants</strong></summary>
   <ul>
 <li>迈向可解释的多模态心理评估：理论驱动的机器学习方法优化路径（2026-2029，国家自然科学基金面上项目32571276），主持</li>
@@ -184,10 +184,12 @@
 </details>
 
 <details  open>
- <summary><strong>Software</strong></summary>
+ <summary><strong>Instruments and Software</strong></summary>
 <ul>
 <li>胡月琴，刘清山（2023）R包：deFit: Fitting Differential Equations to Time Series Data. https://cran.r-project.org/web/packages/deFit/index.html</li>
 <li>胡月琴，刘清山（2023）Python包：deFit: Fitting Differential Equations to Time Series Data. https://pypi.org/project/deFit/</li>
+<li>武瑞娟,张锦涛,申晨煜 & 胡月琴（2025）量表：问题性短视频使用量表</li>
+<li>胡月琴，甘怡群（2008）量表：青少年心理韧性量表</li>
 </ul>
  </details>
 
@@ -197,22 +199,25 @@
 <details  open>
  <summary><strong>Current Members</strong></summary>
   <ul>
-<li> 科研助理：<a href='http://www.annletter.com/'>刘清山</a>、顾潇丹</li>
-<li> 博士生：李芮（2022级）、刘文娟（2023级）、张赫洋（2024级）</li>
-<li> 硕士生：唐亚男、林园、顾雪怡、闫可欣、林瑶、泰可欣、沈思妍、刘云啸、尹玉鑫</li>
-<li> 本科生：宋欣竹、胡骏焘、代泽西、金卓然、周逸然</li>
-<li> 荣誉成员：罗晓慧、李明澜、窦佳宁、武瑞娟</li>
+<li> 科研助理：沈思妍</li>
+<li> 博士生：李芮（2022级）、刘文娟（2023级）、张赫洋（2024级）、苏娃浔（2025级）、成瀚霖（2025级）</li>
+<li> 硕士生：宋欣竹、苗文、林园、顾雪怡、王舒婷、曹馨雅、关佳乐、袁铭瑞、鲍璇</li>
+<li> 本科生：金卓然、周逸然、于欣禾、王俊开</li>
+<li> 旁听：武瑞娟、鲍璇</li>
 </ul>
 </details>
  <details>
  <summary><strong>Previous Members</strong></summary>
   <ul>
-<li>科研助理：姜羽振</li>  
+<li>科研助理：姜羽振</li>、<a href='http://www.annletter.com/'>刘清山</a>、顾潇丹
 <li>2020级硕士：吴凡</li>
-<li>2021级硕士：刘清山、武瑞娟、刘诗、王雨朦、曹一荻</li>
+<li>2021级硕士：刘清山、武瑞娟、刘诗、王雨朦、曹一荻、唐亚男</li>
 <li>2022级硕士：李明澜、王飞鹏、周小涵</li>
+<li>2023级硕士：闫可欣、林瑶、泰可欣、沈思妍、刘云啸</li>
 <li>2019级本科生：王新蕾、罗晓慧、谢安琦、张冯铭依、邓艾林、蒲柯岑、施逸琳、王韵衡</li>
 <li>2020级本科生：朱昱豪、窦佳宁、孟一凡、马静薇、范钰滢、梁雨彤、赵静雅</li>
+<li>2021级本科生：胡骏焘</li>
+<li>2022级本科生：代泽西</li>
 </ul>
 </details> 
 

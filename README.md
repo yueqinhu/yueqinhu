@@ -109,8 +109,9 @@
  <summary><strong>Publications</strong></summary>
 <ul>
 
-<li> Li, R., Liu, X., Yu, Y., Su, W., & Hu, Y.* (2025) Beyond Content: Multimodal Emotional Responses Predict Online Moral Contagion Across Laboratory and Real-world Contexts. International Journal of Human-Computer Studies, 103689.  </li>
-<li> Li, R., Shen, Y., Meng, Z., & Hu, Y.* (2025). Longitudinal relationships among child school engagement, parental monitoring, and child prosocial behavior: A child-parent synergistic mechanism. Journal of Youth and Adolescence, 54(1), 121-132. </li>
+<li> Li, R., Liu, X., Yu, Y., Su, W., & Hu, Y.* (in press). Beyond Content: Multimodal Emotional Responses Predict Online Moral Contagion Across Laboratory and Real-world Contexts. International Journal of Human-Computer Studies, 103689.  </li>
+<li> Li, R., Shen, Y., Meng, Z., & Hu, Y.* (in press). Longitudinal relationships among child school engagement, parental monitoring, and child prosocial behavior: A child-parent synergistic mechanism. Journal of Youth and Adolescence, 54(1), 121-132. </li>
+<li> Liu, W., Wang, J., Zhang, H., Zhang, Y., Liu, H, Shu, H., Wang, Y., Hu, Y., & Li, H. (in press). Towards Digital Assessment of Developmental Dyslexia in mainland China: Establishing Nationwide Norms with a GAMLSS Approach. Assessment.</li>
 <li> Li, R., Meng, Z., & Hu, Y.* (2025). Cultivating child prosocial behavior in dynamic family systems: The distinct role of family conflict and parental monitoring. International Journal of Behavioral Development, 01650254251314772. </li>
 <li> Li, M., Yu, Y., Liu, X., Wu, J., Wang*, Q., & Hu, Y.* (2025). Beyond Algorithms: Utilizing Multi-modal Emotional and Behavioral Cues as Novel Predictors of Short-Video Consumption. Computers in Human Behavior Reports, 100805. </li>
 <li>  Li, M., & Hu, Y. (2025). A hybrid method: Resolving the impact of variable ordering in bayesian network structure learning. Fudan Journal of the Humanities and Social Sciences, 18(1), 175-191.</li>

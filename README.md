@@ -44,7 +44,7 @@
 <li> Li, R., Liu, X., Yu, Y., Su, W., & Hu, Y.* (2025) Beyond Content: Multimodal Emotional Responses Predict Online Moral Contagion Across Laboratory and Real-world Contexts. International Journal of Human-Computer Studies, 103689.  </li>
 <br/>
 <p>
-  <img width="400" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/studydesign.png?raw=true">
+  <img width="350" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/studydesign.png?raw=true">
 </p>
 
 <br/>
@@ -54,7 +54,7 @@
 <li> Li, M., Yu, Y., Liu, X., Wu, J., Wang*, Q., & Hu, Y.* (2025). Beyond Algorithms: Utilizing Multi-modal Emotional and Behavioral Cues as Novel Predictors of Short-Video Consumption. Computers in Human Behavior Reports, 100805.  </li>
 
 <p>
-  <img width="250" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/phone.png?raw=true">
+  <img width="200" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/phone.png?raw=true">
 </p>
 
 <br/>
@@ -190,7 +190,7 @@
 <ul>
 <li>胡月琴，刘清山（2023）R包：deFit: Fitting Differential Equations to Time Series Data. https://cran.r-project.org/web/packages/deFit/index.html</li>
 <li>胡月琴，刘清山（2023）Python包：deFit: Fitting Differential Equations to Time Series Data. https://pypi.org/project/deFit/</li>
-<li>武瑞娟,张锦涛,申晨煜 & 胡月琴（2025）量表：问题性短视频使用量表</li>
+<li>武瑞娟，张锦涛，申晨煜 & 胡月琴（2025）量表：问题性短视频使用量表</li>
 <li>胡月琴，甘怡群（2008）量表：青少年心理韧性量表</li>
 </ul>
  </details>

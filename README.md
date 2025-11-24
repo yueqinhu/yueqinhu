@@ -29,7 +29,7 @@
 
 **计量心理学**：发展针对追踪和密集追踪数据的统计模型；探索多模态数据的处理、挖掘、融合、和解释方法。
 
-**健康心理学**：从动态系统的视角解释健康行为过程，包括压力、疲劳、情绪、饮食、数字生活等；采用多模态机器学习预测预警健康风险。
+**健康心理学**：从动态系统视角解释健康行为过程，包括压力、疲劳、情绪、饮食、数字生活等；采用多模态机器学习预测预警健康风险。
 
  ---
 
@@ -104,23 +104,25 @@
 <ul>
 
 <li> Li, R., Liu, X., Yu, Y., Su, W., & Hu, Y.* (2025) Beyond Content: Multimodal Emotional Responses Predict Online Moral Contagion Across Laboratory and Real-world Contexts. International Journal of Human-Computer Studies, 103689.  </li>
-<li> Li, M., Yu, Y., Liu, X., Wu, J., Wang*, Q., & Hu, Y.* (2025). Beyond Algorithms: Utilizing Multi-modal Emotional and Behavioral Cues as Novel Predictors of Short-Video Consumption. Computers in Human Behavior Reports, 100805. </li>
 <li> Li, R., Shen, Y., Meng, Z., & Hu, Y.* (2025). Longitudinal relationships among child school engagement, parental monitoring, and child prosocial behavior: A child-parent synergistic mechanism. Journal of Youth and Adolescence, 54(1), 121-132. </li>
 <li> Li, R., Meng, Z., & Hu, Y.* (2025). Cultivating child prosocial behavior in dynamic family systems: The distinct role of family conflict and parental monitoring. International Journal of Behavioral Development, 01650254251314772. </li>
+<li> Li, M., Yu, Y., Liu, X., Wu, J., Wang*, Q., & Hu, Y.* (2025). Beyond Algorithms: Utilizing Multi-modal Emotional and Behavioral Cues as Novel Predictors of Short-Video Consumption. Computers in Human Behavior Reports, 100805. </li>
+<li>  Li, M., & Hu, Y. (2025). A hybrid method: Resolving the impact of variable ordering in bayesian network structure learning. Fudan Journal of the Humanities and Social Sciences, 18(1), 175-191.</li>
+<li> Luo, X., Hu, Y*., & Liu*, H. (2025). Timescale mismatch in intensive longitudinal data: Current issues and possible solutions based on dynamic structural equation models. Psychological Methods.</li>
+<li> Luo, X., Hu, Y., & Liu, H. (2025). Assessing between-and within-person reliabilities of items and scale for daily procrastination: A multilevel and dynamic approach. Assessment, 32(1), 61-76. </li>
+<li> Ma, J., Luo, X., & Hu, Y. (2025). Positive Stress Mindset Is Vulnerable: Unpacking the Internal System and External Loop of Dynamic Stress Mindset. Stress and Health, 41(4), e70089. </li>
+<li> Huang, H., Wu, X., Hu, J., Hu, Y., & Gan, Y. (2025). Temporal Dynamics Between Daily Stress, Activity Choice, and Well‐Being: An Experience Sampling Study. Stress and Health, 41(4), e70085.</li>
+<li> Hu, J., Huang, H., Ju, Q., Wu, X., Li, B., Hu, Y., & Gan, Y. (2025). Exploring the interplay between stress-is-enhancing mindsets, emotional growth mindsets, and mental health: Dynamic structural equation modeling. Emotion.  </li>
+<li>Li, J., Gao, Y., Xu, Y., Dai, W., Hu, Y., Feng, X., ... & Alzheimer’s Disease Neuroimaging Initiative. (2025). Morphological changes of the choroid plexus in the lateral ventricle across the lifespan: 5551 subjects from fetus to elderly. NeuroImage, 121392.</li>
 <li> 罗晓慧,胡月琴* & 刘红云*.(2025).压力过程对抑郁状态的动态预测：基于多层决策树. 心理学报(08),1363-1377. </li>
 <li> 武瑞娟,张锦涛,申晨煜 & 胡月琴*.(2025).问题性短视频使用量表的开发与验证.中国心理卫生杂志(07),631-638.  </li>
-<li> Luo, X., Hu, Y., & Liu, H. (2025). Assessing between-and within-person reliabilities of items and scale for daily procrastination: A multilevel and dynamic approach. Assessment, 32(1), 61-76. </li>
-<li> Hu, J., Huang, H., Ju, Q., Wu, X., Li, B., Hu, Y., & Gan, Y. (2025). Exploring the interplay between stress-is-enhancing mindsets, emotional growth mindsets, and mental health: Dynamic structural equation modeling. Emotion.  </li>
-<li> 杨子健,赵小淋,郭凯格,罗家豪,杜腾飞,张雅洁,胡月琴 & 杨娟.睡眠效率相关的皮质醇觉醒反应的变异性及其与特质焦虑和心理弹性的关系. 心理学报57(1), 84-99.  </li>
-<li> Luo, X., Hu, Y*., & Liu*, H. (2025). Timescale mismatch in intensive longitudinal data: Current issues and possible solutions based on dynamic structural equation models. Psychological Methods.</li>
+<li> 杨子健,赵小淋,郭凯格,罗家豪,杜腾飞,张雅洁,胡月琴 & 杨娟.(2025). 睡眠效率相关的皮质醇觉醒反应的变异性及其与特质焦虑和心理弹性的关系. 心理学报57(1), 84-99.  </li>
 <li> Luo, X., Ma, J. & Hu, Y.* (2024). A dynamic bidirectional system of stress processes: Feedback loops between stressors, psychological distress, and physical symptoms. Health Psychology, doi: 10.1037/hea0001414 </li>
 <li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
-<li>  Li, M., & Hu, Y.* (2024). A Hybrid Method: Resolving the Impact of Variable Ordering in Bayesian Network Structure Learning. Fudan Journal of the Humanities and Social Sciences, 1-17.</li>
 <li> Luo, X., Liu, H.*, & Hu, Y.* (2024). From cross-lagged effects to feedback effects: Further insights into the estimation and interpretation of bidirectional relations. Behavior Research Methods, 56(4), 3685-3705. </li>
-<li> Li, R., Shen, Y., Meng, Z., & Hu, Y.* (2024). Longitudinal Relationships Among Child School Engagement, Parental Monitoring, and Child Prosocial Behavior: A Child-Parent Synergistic Mechanism. Journal of Youth and Adolescence, 1-12.</li>
+<li>Hu, Y., Purol, S. M., Shen, Y., & Zheng, Y. (2024). Perceived racism and well-being in University racial/ethnic minority students: the complex roles of racial/ethnic identity and self-esteem. Current Psychology, 43(48), 37196-37207.</li>
 <li> Zheng, Y.*, Xu, J., Li, K., & Hu, Y.* (2024). A dynamical systems investigation of the co-regulation between perceived daily parental warmth and adolescent attention-deficit/hyperactivity disorder symptoms. Research on Child and Adolescent Psychopathology, 52(1), 111-124.</li>
 <li> Wang, H., Xu, J., Fu, S., Tsang, U. K., Ren, H., Zhang, S., Hu, Y.*, & Han, Z. R.* (2024). Friend emotional support and dynamics of adolescent socioemotional problems. Journal of youth and adolescence, 1-14.    </li>
-<li>  Luo, X., Hu, Y., & Liu, H. (2024). Assessing Between-and Within-Person Reliabilities of Items and Scale for Daily Procrastination: A Multilevel and Dynamic Approach. Assessment, 10731911241235467.   </li>
 <li>  Xu, J., Wang, H., Morrow, K. E., Xu, Y., Gao, M. M., Hu, Y., & Han, Z. R. (2024). Respiratory sinus arrhythmia (RSA) dynamics matter for children's emotion regulation: RSA inertia and instability within a stress task. Child Development, 95(1), 70-81.   </li>
 <li>  Luo, X., Ma, J., & Hu, Y.* (2023). Dynamic and bidirectional relation between mindfulness and procrastination among female college students. Mindfulness, 14(9), 2265-2275.   </li>
 <li>  Gan, Y., Wang, L., Schwarzer, R., Chen, G., & Hu, Y.* (2023). Eating healthy under work stress: A gene stress interaction model. Health Psychology, 42(7), 425.   </li>
@@ -163,11 +165,15 @@
 <details>
  <summary><strong>Grants</strong></summary>
   <ul>
+<li>迈向可解释的多模态心理评估：理论驱动的机器学习方法优化路径（2026-2029，国家自然科学基金面上项目32571276），主持</li>
+<li>密集追踪数据的收集方案优化与分析方法改进：基于计划缺失的设计（2025-2028，国家自然科学基金面上项目），参与</li>
 <li>密集追踪数据动态建模新方法:数值优化算法及样本量设计(2022-2025，国家自然科学基金面上项目32171089)，主持</li>
-<li>XXX心理健康多维评估预警体系建设项目（2024-2025，部委委托项目），主持</li>
-<li>基于多模信号的情绪感知及其在内容推荐中的应用研究（2023-2024，淘宝中国），主持 </li>
+<li>XXX心理健康多维评估预警体系建设项目（2024-2025，公安部），主持</li>
+<li>基于多模信号的情绪感知及其在内容推荐中的应用研究（2023-2024，阿里巴巴创新研究计划），主持</li>
+<li>大学生科技见习计划心理测试题库建设及心理指导课程开发（2025-2025，中国科协），主持</li>
 <li>大学生自杀危机预防与干预全过程模型的建构、优化与应用研究（2022-2023，项目号：310499101，北京师范大学），子课题主持</li>
 <li>中学生自伤与伤人风险测评工具的开发（2022-2023，杭州铭师堂），主持</li>
+<li>脑发育与认知、学习能力发展规律及分化机制。（2021-2026，科技部，科技创新2030课题），子任务负责人</li>
 <li>National Institutes of Health (001452-00001): Innovative physiological predictors of college drinking. Co-Investigator</li>
 <li>Texas State Research Enhancement Program: Using Derivatives to Analyze Within-Individual Fluctuations. Principal Investigator.</li>
 <li>Texas State University Start-Up Fund: The Dynamic Relationship between Daily Habits and Healthy sleep. Principal Investigator</li>

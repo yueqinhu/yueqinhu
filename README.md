@@ -211,7 +211,7 @@
  <details>
  <summary><strong>Previous Members</strong></summary>
   <ul>
-<li>科研助理：姜羽振</li>、<a href='http://www.annletter.com/'>刘清山</a>、顾潇丹
+<li>科研助理：姜羽振、<a href='http://www.annletter.com/'>刘清山</a>、顾潇丹</li>
 <li>2020级硕士：吴凡</li>
 <li>2021级硕士：刘清山、武瑞娟、刘诗、王雨朦、曹一荻、唐亚男</li>
 <li>2022级硕士：李明澜、王飞鹏、周小涵</li>

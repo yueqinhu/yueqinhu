@@ -41,7 +41,7 @@
 
 <li> Li, R., Liu, X., Yu, Y., Su, W., & Hu, Y.* (2025) Beyond Content: Multimodal Emotional Responses Predict Online Moral Contagion Across Laboratory and Real-world Contexts.
 International Journal of Human-Computer Studies, 103689,  </li>
-
+<br/>
 <p>
   <img width="400" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/studydesign.png?raw=true">
 </p>

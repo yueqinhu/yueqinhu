@@ -6,11 +6,14 @@
 新成员招募：
 
 实验室接收本科生科研轮转和科研训练，了解详情请发邮件yueqinhu@bnu.edu.cn。
+
+<!--
 </p>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/yueqinhu/count.svg" />
 </p>
+-->
 
   ---
   

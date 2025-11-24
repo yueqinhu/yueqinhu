@@ -45,7 +45,7 @@ International Journal of Human-Computer Studies, 103689,  </li>
 <li> Li, M., Yu, Y., Liu, X., Wu, J., Wang*, Q., & Hu, Y.* (2025). Beyond Algorithms: Utilizing Multi-modal Emotional and Behavioral Cues as Novel Predictors of Short-Video Consumption. Computers in Human Behavior Reports, 100805.  </li>
 
 <p>
-  <img width="700" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/phone.png?raw=true">
+  <img width="700" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/phone.jpg?raw=true">
 </p>
 
 <br/>

@@ -39,8 +39,7 @@
  <summary><strong>Featured Studies</strong></summary>
 <ul> 
 
-<li> Li, R., Liu, X., Yu, Y., Su, W., & Hu, Y.* (2025) Beyond Content: Multimodal Emotional Responses Predict Online Moral Contagion Across Laboratory and Real-world Contexts.
-International Journal of Human-Computer Studies, 103689,  </li>
+<li> Li, R., Liu, X., Yu, Y., Su, W., & Hu, Y.* (2025) Beyond Content: Multimodal Emotional Responses Predict Online Moral Contagion Across Laboratory and Real-world Contexts. International Journal of Human-Computer Studies, 103689.  </li>
 <br/>
 <p>
   <img width="400" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/studydesign.png?raw=true">
@@ -103,10 +102,21 @@ International Journal of Human-Computer Studies, 103689,  </li>
 <details>
  <summary><strong>Publications</strong></summary>
 <ul>
- <li> Luo, X., Ma, J. & Hu, Y.* (2024). A dynamic bidirectional system of stress processes: Feedback loops between stressors, psychological distress, and physical symptoms. Health Psychology, doi: 10.1037/hea0001414 </li>
-  <li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
- <li>  Li, M., & Hu, Y.* (2024). A Hybrid Method: Resolving the Impact of Variable Ordering in Bayesian Network Structure Learning. Fudan Journal of the Humanities and Social Sciences, 1-17.</li>
- <li> Luo, X., Liu, H.*, & Hu, Y.* (2024). From cross-lagged effects to feedback effects: Further insights into the estimation and interpretation of bidirectional relations. Behavior Research Methods, 56(4), 3685-3705. </li>
+
+<li> Li, R., Liu, X., Yu, Y., Su, W., & Hu, Y.* (2025) Beyond Content: Multimodal Emotional Responses Predict Online Moral Contagion Across Laboratory and Real-world Contexts. International Journal of Human-Computer Studies, 103689.  </li>
+<li> Li, M., Yu, Y., Liu, X., Wu, J., Wang*, Q., & Hu, Y.* (2025). Beyond Algorithms: Utilizing Multi-modal Emotional and Behavioral Cues as Novel Predictors of Short-Video Consumption. Computers in Human Behavior Reports, 100805. </li>
+<li> Li, R., Shen, Y., Meng, Z., & Hu, Y.* (2025). Longitudinal relationships among child school engagement, parental monitoring, and child prosocial behavior: A child-parent synergistic mechanism. Journal of Youth and Adolescence, 54(1), 121-132. </li>
+<li> Li, R., Meng, Z., & Hu, Y.* (2025). Cultivating child prosocial behavior in dynamic family systems: The distinct role of family conflict and parental monitoring. International Journal of Behavioral Development, 01650254251314772. </li>
+<li> 罗晓慧,胡月琴* & 刘红云*.(2025).压力过程对抑郁状态的动态预测：基于多层决策树. 心理学报(08),1363-1377. </li>
+<li> 武瑞娟,张锦涛,申晨煜 & 胡月琴*.(2025).问题性短视频使用量表的开发与验证.中国心理卫生杂志(07),631-638.  </li>
+<li> Luo, X., Hu, Y., & Liu, H. (2025). Assessing between-and within-person reliabilities of items and scale for daily procrastination: A multilevel and dynamic approach. Assessment, 32(1), 61-76. </li>
+<li> Hu, J., Huang, H., Ju, Q., Wu, X., Li, B., Hu, Y., & Gan, Y. (2025). Exploring the interplay between stress-is-enhancing mindsets, emotional growth mindsets, and mental health: Dynamic structural equation modeling. Emotion.  </li>
+<li> 杨子健,赵小淋,郭凯格,罗家豪,杜腾飞,张雅洁,胡月琴 & 杨娟.睡眠效率相关的皮质醇觉醒反应的变异性及其与特质焦虑和心理弹性的关系. 心理学报57(1), 84-99.  </li>
+<li> Luo, X., Hu, Y*., & Liu*, H. (2025). Timescale mismatch in intensive longitudinal data: Current issues and possible solutions based on dynamic structural equation models. Psychological Methods.</li>
+<li> Luo, X., Ma, J. & Hu, Y.* (2024). A dynamic bidirectional system of stress processes: Feedback loops between stressors, psychological distress, and physical symptoms. Health Psychology, doi: 10.1037/hea0001414 </li>
+<li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
+<li>  Li, M., & Hu, Y.* (2024). A Hybrid Method: Resolving the Impact of Variable Ordering in Bayesian Network Structure Learning. Fudan Journal of the Humanities and Social Sciences, 1-17.</li>
+<li> Luo, X., Liu, H.*, & Hu, Y.* (2024). From cross-lagged effects to feedback effects: Further insights into the estimation and interpretation of bidirectional relations. Behavior Research Methods, 56(4), 3685-3705. </li>
 <li> Li, R., Shen, Y., Meng, Z., & Hu, Y.* (2024). Longitudinal Relationships Among Child School Engagement, Parental Monitoring, and Child Prosocial Behavior: A Child-Parent Synergistic Mechanism. Journal of Youth and Adolescence, 1-12.</li>
 <li> Zheng, Y.*, Xu, J., Li, K., & Hu, Y.* (2024). A dynamical systems investigation of the co-regulation between perceived daily parental warmth and adolescent attention-deficit/hyperactivity disorder symptoms. Research on Child and Adolescent Psychopathology, 52(1), 111-124.</li>
 <li> Wang, H., Xu, J., Fu, S., Tsang, U. K., Ren, H., Zhang, S., Hu, Y.*, & Han, Z. R.* (2024). Friend emotional support and dynamics of adolescent socioemotional problems. Journal of youth and adolescence, 1-14.    </li>

@@ -68,7 +68,7 @@
 <li> Luo, X., & Hu, Y.* (2024). Temporal misalignment in intensive longitudinal data: consequences and solutions based on dynamic structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 31(1), 118-131.</li>
 
 <p>
-  <img width="700" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/misalignment.png?raw=true">
+  <img width="500" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/misalignment.png?raw=true">
 </p>
 
 <br/>
@@ -80,7 +80,7 @@
 
 
 <p>
-  <img width="700" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/feedback.png?raw=true">
+  <img width="500" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/feedback.png?raw=true">
 </p>
 
 <br/>
@@ -92,7 +92,7 @@
 
 
 <p>
-  <img width="700" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/str_psy_phy_model.png?raw=true">
+  <img width="500" align='center' src="https://github.com/yueqinhu/yueqinhu/blob/main/img/str_psy_phy_model.png?raw=true">
 </p>
 
 <br/>

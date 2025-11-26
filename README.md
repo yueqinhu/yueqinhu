@@ -99,7 +99,7 @@
 </ul>
 </details>
 
-<details open>
+<details>
  <summary><strong>Publications</strong></summary>
 <ul>
 

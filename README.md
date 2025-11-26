@@ -163,7 +163,7 @@
 </ul>
 </details>
 
-<details open>
+<details>
  <summary><strong>Grants</strong></summary>
   <ul>
 <li>迈向可解释的多模态心理评估：理论驱动的机器学习方法优化路径（2026-2029，国家自然科学基金面上项目32571276），主持</li>

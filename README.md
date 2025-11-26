@@ -189,7 +189,7 @@
 <ul>
 <li>胡月琴，刘清山（2023）R包：deFit: Fitting Differential Equations to Time Series Data. https://cran.r-project.org/web/packages/deFit/index.html</li>
 <li>胡月琴，刘清山（2023）Python包：deFit: Fitting Differential Equations to Time Series Data. https://pypi.org/project/deFit/</li>
-<li>武瑞娟，张锦涛，申晨煜 & 胡月琴（2025）量表：问题性短视频使用量表 [点击这里查看完整报告](https://github.com/yueqinhu/yueqinhu/blob/main/img/问题性短视频使用量表.pdf)</li>
+<li>武瑞娟，张锦涛，申晨煜 & 胡月琴（2025）量表： <a href="https://github.com/yueqinhu/yueqinhu/blob/main/img/问题性短视频使用量表.pdf">问题性短视频使用量表</a></li>
 <li>胡月琴，甘怡群（2008）量表：青少年心理韧性量表</li>
 </ul>
  </details>

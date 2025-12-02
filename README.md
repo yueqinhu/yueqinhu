@@ -6,6 +6,7 @@
 ✨ 祝贺李明澜等关于手机端智能信号预测短视频观看的论文在Computers in Human Behavior Reports发表！<br>
 ✨ 祝贺刘文娟等关于构建阅读障碍连续常模的论文在Assessment发表！<br>
 ✨ 祝贺罗晓慧等关于密集追踪数据时间尺度不匹配的论文在Psychological Methods发表！<br>
+✨ 祝贺武瑞娟等关于问题性短视频使用量表开发的论文在中国心理卫生杂志发表！<br>
 
 新成员招募：
 

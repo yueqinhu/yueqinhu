@@ -2,6 +2,8 @@
 
 ### 💕Announcement
 
+✨ 祝贺李芮等关于机器学习评估主观幸福感预测因子相对重要性的论文在Journal of Happiness Studies发表！<br>
+✨ 祝贺金卓然等关于压力观在疲惫感的压力动态模型中的作用的论文在Applied Psychology: Health and Well-Being发表！<br>
 ✨ 祝贺李芮、苏娃洵等关于用户多模态实时情绪预测线上道德传染的论文在International Journal of Human-Computer Studies发表！<br>
 ✨ 祝贺李明澜等关于手机端智能信号预测短视频观看的论文在Computers in Human Behavior Reports发表！<br>
 ✨ 祝贺刘文娟等关于构建阅读障碍连续常模的论文在Assessment发表！<br>
